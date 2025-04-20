@@ -1,9 +1,4 @@
-Dubs Mint Minimap
+### Installation via Steam Workshop
+You can install the mod from the Steam Workshop here: [Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3467301172).
 
-By Dubwise
-
-https://ludeon.com/forums/index.php?topic=29043.0
-
-Adds a minimap, with some options, doesn't hurt fps, ping tool for multiplayer
-
-Multiplayer ready
+Please note, this mod will be removed once my pull request is accepted.
